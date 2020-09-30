@@ -1331,7 +1331,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbZrFYRv3M {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background: linear-gradient(45deg, #efefef, #efefef);
 }
 .cid-sbZrFYRv3M .list-group-item {
@@ -1383,6 +1383,21 @@ section.lazy-placeholder:after {
   .cid-sbZrFYRv3M .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-sc2VxP7REq {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-sc2VxP7REq .mbr-text,
+.cid-sc2VxP7REq blockquote {
+  color: #767676;
+}
+.cid-sc2VxP7REq .mbr-text P {
+  text-align: center;
+}
+.cid-sc2VxP7REq .mbr-text {
+  color: #232323;
 }
 .cid-sbNB4cxHvE {
   padding-top: 90px;
