@@ -1071,3 +1071,8 @@ body {
 section#services2-a img {
     width: 50%;
 }
+section#services2-a .media-container-row {
+    margin-left: 12%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
